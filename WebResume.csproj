@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>f2aaf999-5fa0-4ed1-b04a-f20424b8ef77</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\img\favicon.ico" />
+    <None Include="wwwroot\css\styles.css" />
+    <None Include="wwwroot\index.html" />
+    <None Include="wwwroot\js\scripts.js" />
+  </ItemGroup>
+
+</Project>

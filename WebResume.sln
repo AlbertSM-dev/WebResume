@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebResume", "WebResume.csproj", "{CADB15FB-2FB1-4906-81C2-700DD5A6DB21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADB15FB-2FB1-4906-81C2-700DD5A6DB21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADB15FB-2FB1-4906-81C2-700DD5A6DB21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADB15FB-2FB1-4906-81C2-700DD5A6DB21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADB15FB-2FB1-4906-81C2-700DD5A6DB21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {999413DA-2EDE-45CC-95C6-E3CEC8779753}
+	EndGlobalSection
+EndGlobal
